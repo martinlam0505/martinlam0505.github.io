@@ -1,7 +1,8 @@
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 h1{
 	color: red;
 	text-align: center;
-	font: italic bold 40px blue;
+	font: italic bold 40px blue, 'Oswald' sans-serif; 
 	text-shadow: 5px 0px blue;
 	
 }	
