@@ -3,11 +3,12 @@ body{
 }
 img{
 	width: 600;
+	height: 200;
 
 }
 .table{
 	display: table;
-	margin: 0 auto;
+	margin: 0 auto;	
 
 }
 
