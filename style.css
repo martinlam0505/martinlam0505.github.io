@@ -1,6 +1,15 @@
 body{
 	background-color: black;
 }
+img{
+	width: 600;
+
+}
+.table{
+	display: table;
+	margin: 0 auto;
+
+}
 
 ul{
 	list-style-type: none;
@@ -10,6 +19,7 @@ ul{
 
 li{
 	float: left;
+
 }
 
 li a{
@@ -18,7 +28,7 @@ li a{
 	text-align: center;
 	padding: 20px 20px;
 	text-decoration: none;
-	font-family: 'Droid Serif', serif;
+	font-family: sans-serif, serif;	
 }
 
 li a:hover {
